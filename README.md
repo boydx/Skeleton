@@ -1,3 +1,7 @@
+# Modified for University of Kentucky Geo409 for web map portfolios
+
+Students will need to modify the ```index.html``` and possibly ```skeleton.css``` to finish a web page. 
+
 # [Skeleton](http://getskeleton.com)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
