@@ -359,14 +359,22 @@ form {
 
 /* Utilities
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Stretch or shrink image to fit width of browser frame regardless of the orginal size of image */
 .u-full-width {
   width: 100%;
   box-sizing: border-box; }
+
+/* Stretch or shrink image to fit width of browser frame but do not increase size of image greater 100% of oringal size */
 .u-max-full-width {
   max-width: 100%;
   box-sizing: border-box; }
+
+/* float image to the right with content glowing around */ 
 .u-pull-right {
   float: right; }
+
+/* float image to the left with content flowing around */
 .u-pull-left {
   float: left; }
 

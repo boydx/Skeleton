@@ -2,6 +2,8 @@
 
 Students will need to modify the ```index.html``` and possibly ```skeleton.css``` to finish a web page. 
 
+An example of the ```index.html``` rendered in a browser can be found at [http://boydx.github.io/tbt/example/](http://boydx.github.io/tbt/example/)
+
 # [Skeleton](http://getskeleton.com)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
